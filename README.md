@@ -19,7 +19,7 @@ A powerful, multi-feature **PyQt6** application that **cleans** and **validates*
 - [Clean Website Data – PyQt6](#clean-website-data--pyqt6)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
-  - [Screenshots (Optional)](#screenshots-optional)
+  - [Screenshots](#screenshots)
   - [Requirements](#requirements)
   - [Installation](#installation)
   - [Usage](#usage)
@@ -63,7 +63,7 @@ A powerful, multi-feature **PyQt6** application that **cleans** and **validates*
 
 ---
 
-## Screenshots (Optional)
+## Screenshots
 
 ![Main Window](docs/screenshot_1.png)
 

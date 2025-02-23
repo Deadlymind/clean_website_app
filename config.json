@@ -1,0 +1,15 @@
+{
+  "lastRegex": "",
+  "theme": "Light",
+  "columnsToKeep": [],
+  "columnsToValidate": [],
+  "lastOutputBaseName": "cleaned_output",
+  "windowGeometry": [
+    730,
+    315,
+    1100,
+    700
+  ],
+  "numThreads": 4,
+  "outputDir": ""
+}
